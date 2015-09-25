@@ -1,0 +1,12 @@
+{
+  "name": "cgalvarez-meteor",
+  "version": "1.0.0",
+  "author": "Carlos García Álvarez",
+  "summary": "Puppet Meteor module",
+  "license": "GNU General Public License v2",
+  "source": "https://github.com/cgalvarez/puppet-meteor",
+  "project_page": "https://github.com/cgalvarez/puppet-meteor",
+  "issues_url": "https://github.com/cgalvarez/puppet-meteor/issues",
+  "dependencies": []
+}
+
